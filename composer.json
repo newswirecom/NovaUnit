@@ -1,19 +1,18 @@
 {
-    "name": "joshgaber/novaunit",
+    "name": "newswirecom/novaunit",
     "description": "Unit testing suite for Laravel Nova, built to extend PHPUnit",
     "version": "3.1.0",
     "keywords": [
         "laravel",
         "nova",
-        "joshgaber",
         "novaunit"
     ],
-    "homepage": "https://github.com/joshgaber/novaunit",
+    "homepage": "https://github.com/newswirecom/novaunit",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Josh Gaber",
+            "name": "Issuer Direct",
             "email": "joshgaber@gmail.com",
             "homepage": "https://joshgaber.ca",
             "role": "Developer"

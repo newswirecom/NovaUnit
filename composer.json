@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^8.0|^8.1",
         "ext-mbstring": "*",
         "cakephp/chronos": ">=2.0.0",
         "illuminate/support": "^8.83.4|^9.3.1|^10.0",
